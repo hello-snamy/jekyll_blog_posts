@@ -2,7 +2,7 @@ backend:
   name: github
   repo: snamyorg1/jekyll_blog_posts
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/69b6cfce3d9141c0c4f7792a
+  auth_endpoint: /auth/github/repo/69c3fc78befd34da90d0c028
 
 media_folder: "docs/media"
 public_folder: "/media"
